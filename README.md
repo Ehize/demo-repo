@@ -1,3 +1,3 @@
 #Demo
 
-A new stuff description
+A new repo description
